@@ -1,0 +1,11 @@
+{
+  "name": "Divyansh Pratap Singh",
+  "bio": "I am a Full Stack Developer",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/SaraJaoude",
+      "icon": "FaTwitter"
+    }
+  ]
+}
